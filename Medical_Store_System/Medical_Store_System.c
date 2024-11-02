@@ -1,3 +1,5 @@
+/*Name of the Project-Medical Store System
+ *Created By-Sagar Singh */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
